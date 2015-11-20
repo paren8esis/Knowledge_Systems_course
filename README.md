@@ -5,6 +5,7 @@ This is my solution for the Knowledge Systems and Technologies course at NTUA (2
 The objective was to create a system that will automatically translate Greek numbers (in words) into English, and vice versa.
 
 Example:
+
 * εκατόν δύο = a hundred and two
 * δεκα εννέα = nineteen
 * ογδόντα = eighty
